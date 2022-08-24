@@ -1,0 +1,11 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bsvleste/test-cypress.git",
+  "author": "bsvleste <bvaleiro@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
